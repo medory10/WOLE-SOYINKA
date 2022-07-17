@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+  text-decoration: none;
+}
+
+body {
+  padding: 20px;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  
+ 
+}
+
+#container {
+padding: 50px;
+
+}
+
+.africa {
+  width: 40%;
+  height: auto;
+  border-radius: 40px;
+  
+}
+#link {
+display: flex; /*to move display the flex*/
+justify-content: center;
+}
+
+h1 {
+  color: blue;
+  font-size: 40px;
+  text-align: center;
+  text-transform: capitalize; /*small to big letter*/
+}
+
+
+p {
+  color:white;
+  font-size: 30;
+  text-align: justify;
+  text-indent: 30px;
+}
+
+
+.earlylife,
+.lifeandwork,
+.career,
+.politics,
+.literatureworks,
+.reference 
+
+{
+  margin-top: 30px;
+  
+  
+}
+
+  
+  
