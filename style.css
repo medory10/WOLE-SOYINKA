@@ -54,17 +54,13 @@ p {
 .career,
 .politics,
 .literatureworks,
-.reference
-
-{
+.reference {
   margin-top: 30px;
-  
-  
 }
 
-p{
-  design by Ahmed
-  text-align:
+.ahmed {
+  text-align: center;
+  margin-top: 5px;
 }
 
 
